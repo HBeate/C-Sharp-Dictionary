@@ -1,0 +1,10 @@
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\Wörterbuch\Wörterbuch\Wörterbuch\bin\Debug\Wörterbuch.exe.config
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\Wörterbuch\Wörterbuch\Wörterbuch\bin\Debug\Wörterbuch.exe
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\Wörterbuch\Wörterbuch\Wörterbuch\bin\Debug\Wörterbuch.pdb
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\Wörterbuch\Wörterbuch\Wörterbuch\obj\Debug\Wörterbuch.csprojAssemblyReference.cache
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\Wörterbuch\Wörterbuch\Wörterbuch\obj\Debug\Wörterbuch.Properties.Resources.resources
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\Wörterbuch\Wörterbuch\Wörterbuch\obj\Debug\Wörterbuch.Wörterbuch.resources
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\Wörterbuch\Wörterbuch\Wörterbuch\obj\Debug\Wörterbuch.csproj.GenerateResource.cache
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\Wörterbuch\Wörterbuch\Wörterbuch\obj\Debug\Wörterbuch.csproj.CoreCompileInputs.cache
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\Wörterbuch\Wörterbuch\Wörterbuch\obj\Debug\Wörterbuch.exe
+C:\Users\DCV\Desktop\Coding\04_Vertiefung_CSharp\Wörterbuch\Wörterbuch\Wörterbuch\obj\Debug\Wörterbuch.pdb
